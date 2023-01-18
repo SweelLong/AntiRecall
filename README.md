@@ -16,3 +16,5 @@
 ### 关于
 
 - [前往QQBotHub的开源仓库](https://github.com/yiyungent/QQBotHub)
+
+# KnifeHub新版移植中...
