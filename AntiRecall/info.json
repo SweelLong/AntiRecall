@@ -1,0 +1,8 @@
+{
+	"PluginId": "AntiRecall",
+	"DisplayName": "防撤回插件",
+	"Description": "这是基于QQBotHub开发的插件。",
+	"Author": "SweelLong",
+	"Version": "1.0.0",
+	"SupportedVersions": [ "0.0.1" ]
+}
