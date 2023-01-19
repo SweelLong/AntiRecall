@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.4.32804.182
+VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntiRecall", "AntiRecall.csproj", "{C11277FC-4C18-4528-A310-EDC01B631D77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntiRecall", "AntiRecall\AntiRecall.csproj", "{5BF07CC7-89B9-483B-B305-9B889DDBA69D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KonataPlugin", "KonataPlugin\KonataPlugin.csproj", "{1C9382D8-D724-4A04-8AC6-4269744E97A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C11277FC-4C18-4528-A310-EDC01B631D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C11277FC-4C18-4528-A310-EDC01B631D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C11277FC-4C18-4528-A310-EDC01B631D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C11277FC-4C18-4528-A310-EDC01B631D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF07CC7-89B9-483B-B305-9B889DDBA69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF07CC7-89B9-483B-B305-9B889DDBA69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF07CC7-89B9-483B-B305-9B889DDBA69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF07CC7-89B9-483B-B305-9B889DDBA69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9382D8-D724-4A04-8AC6-4269744E97A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9382D8-D724-4A04-8AC6-4269744E97A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9382D8-D724-4A04-8AC6-4269744E97A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9382D8-D724-4A04-8AC6-4269744E97A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FF3FF36D-32FD-41FA-B0ED-23B4E7CC3375}
+		SolutionGuid = {71FA34F9-2B01-4D0A-A19E-414B27B85563}
 	EndGlobalSection
 EndGlobal
