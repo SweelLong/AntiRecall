@@ -2,7 +2,7 @@
 
 ### 配置文件
 
--   "ClearHistoryByNum":      到达该数量就删除储存在文本文件里的历史消息                       
+-   "ClearHistoryByNum":      到达该数量将自动删除储存的历史消息                       
 
 ### 相关指令
 
